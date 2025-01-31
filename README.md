@@ -48,9 +48,6 @@ This tool is designed for educational purposes and ethical security testing only
 
 Always ensure you have proper authorization before using this tool in any environment.
 
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
 [https://github.com/0273574/](https://github.com/0273574/)
 
 ## Contributing
